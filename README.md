@@ -44,11 +44,23 @@ Lot Summaries by Lot
 
 ## T-Tests on Suspension Coils
 
+I conducted t-tests on all of the manufacturing lots, as well as each lot individually, to determine how the differ from the mean population of 1,500lbs. per square inch.
+
+All Manufacturing Lots
+
+The result from the first t-test on all manufacturing lots indicates a p-value of 0.06028. This means that there is not a statistical difference between the lots and the mean population and the null hypothesis cannot be rejected. 
+
 <img width="421" alt="Deliverable 3 1" src="https://user-images.githubusercontent.com/103767830/195753669-2ead4ea1-71fb-4a12-b510-1a25a96a1bf5.png">
+
+Lot 1- The t-test conducted revealed that there is not a statistical difference between the lot and the mean population. This is because the p-value is 1, which means the null hypothesis cannot be rejected. It is also worth noting that the p-value is 1, which matches the mean population.
 
 <img width="421" alt="Deliverable 3 2" src="https://user-images.githubusercontent.com/103767830/195753670-31802e95-f054-47ce-98a1-dd2a96f50fa8.png">
 
+Lot 2- This t-test indicates that there is no statistical difference between the lot and the mean population. This is shown by the p-value of 0.6072. Unlike Lot 1, Lot 2's p-value is a lot lower, but is still not low enough to reject the null hypothesis.
+
 <img width="421" alt="Deliverable 3 3" src="https://user-images.githubusercontent.com/103767830/195753671-49134293-c0da-44a9-add2-55a5fd64c202.png">
+
+Lot 3- The t-test of Lot 3 indicates that there is a statistical difference between the lot and the mean population. This is shown by a p-value of 0.4168 which is considered low and that the null hypothesis can be rejected.
 
 <img width="421" alt="Deliverable 3 4" src="https://user-images.githubusercontent.com/103767830/195753672-9d8b218f-db5a-40e5-9844-569607067d91.png">
 
