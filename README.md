@@ -18,15 +18,15 @@ Software: RStudio
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-Variables such as vehicle length and ground clearance yield a non-random amount of variance to the mpg values. Therefore, there is a significant relationship between those two variables and mpg.
+    * Variables such as vehicle length and ground clearance yield a non-random amount of variance to the mpg values. Therefore, there is a significant relationship between those two variables and mpg.
 
 * Is the slope of the linear model considered to be zero? Why or why not?
 
-While the slope is very, very small, it is also not zero. The p-value of 0.0000000000535 is not considered to be zero and lends support that the null hypothesis can be rejected.
+    * While the slope is very, very small, it is also not zero. The p-value of 0.0000000000535 is not considered to be zero and lends support that the null hypothesis can be rejected.
 
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-This particular linear model predicts mpg of MechaCar prototype well, but some improvements can be made. The r-squared value of 0.71 (71%) provides the relevant information that the variance of mpg (dependent variable) is explained in this linear model. 
+    * This particular linear model predicts mpg of MechaCar prototype well, but some improvements can be made. The r-squared value of 0.71 (71%) provides the relevant information that the variance of mpg (dependent variable) is explained in this linear model. 
 
 ## Summary Statistics on Suspension Coils
 
