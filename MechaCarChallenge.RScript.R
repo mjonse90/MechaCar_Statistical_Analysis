@@ -22,5 +22,16 @@ lot_summary <- mechaCarSuspensionCoilDF %>% group_by(Manufacturing_Lot) %>% summ
 
 lot_summary
 
+# Deliverable 3
 
+library(dplyr)
 
+mechaCarSuspensionCoilDF <- read.csv('/Users/markjonse90/Desktop/Classwork/R_Analysis/suspension_coil.csv', check.names = F, stringsAsFactors = F)
+
+t.test(mechaCarSuspensionCoilDF$PSI,mu=1500)
+
+t.test(subset(mechaCarSuspensionCoilDF, Manufacturing_Lot == "Lot1")$PSI, mu = 1500)
+
+t.test(subset(mechaCarSuspensionCoilDF, Manufacturing_Lot == "Lot2")$PSI, mu = 1500)
+
+t.test(subset(mechaCarSuspensionCoilDF, Manufacturing_Lot == "Lot3")$PSI, mu = 1500)
