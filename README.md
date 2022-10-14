@@ -43,3 +43,12 @@ Lot Summaries by Lot
    * The manufacturing data presented mostly meets the specifications listed. In total, in regards to the manufacturing lots, the total variance is 62.3, which is below the design specification for the variance of the suspension coils of 100lbs. However, when analyzing the lots individually, some issues arise. For lots 1 and 2, the variance is very small - coming in at 0.98 and 7.47, respectively. Thus, Lots 1 and 2 meet the design specifications. Comparing Lots 1 and 2 to Lot 3, however, indicates that Lot 3 is well above the design specification. At 170lbs, Lot 3 surpasses the threshold of 100lbs for the variance of the suspension coils.
 
 ## T-Tests on Suspension Coils
+
+<img width="421" alt="Deliverable 3 1" src="https://user-images.githubusercontent.com/103767830/195753669-2ead4ea1-71fb-4a12-b510-1a25a96a1bf5.png">
+
+<img width="421" alt="Deliverable 3 2" src="https://user-images.githubusercontent.com/103767830/195753670-31802e95-f054-47ce-98a1-dd2a96f50fa8.png">
+
+<img width="421" alt="Deliverable 3 3" src="https://user-images.githubusercontent.com/103767830/195753671-49134293-c0da-44a9-add2-55a5fd64c202.png">
+
+<img width="421" alt="Deliverable 3 4" src="https://user-images.githubusercontent.com/103767830/195753672-9d8b218f-db5a-40e5-9844-569607067d91.png">
+
