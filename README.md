@@ -64,3 +64,10 @@ Lot 3- The t-test of Lot 3 indicates that there is a statistical difference betw
 
 <img width="421" alt="Deliverable 3 4" src="https://user-images.githubusercontent.com/103767830/195753672-9d8b218f-db5a-40e5-9844-569607067d91.png">
 
+## Study Design: MechaCar vs Competition
+
+To determine how a MechaCar performs against the competition, a statistical study should be conducted. A statistical study that could quantify how the MechaCar performs against the competition would best consider the metrics of cost, fuel efficiency, and safety rating which have been shown to be of high importance to the consumer.
+
+The null hypothesis would be that MechaCar and it's competition do not differ on the selected variable (cost, fuel effiiciency, and safety rating). The alternative hypothesis would be that MechaCar and it's competition actually do differ (and if they do, is the difference positive or negative).
+
+In order to perform this study, data on the variables selected (cost, fuel efficiency, safety rating, etc.). This can be obtained from consumer reports or internet searches, for both MechaCar and it's competitors. Multiple linear regressions could be used to run this analysis. Additionally, further analysis can be performed to determine if MechaCar out-performs it's competitors or not. 
