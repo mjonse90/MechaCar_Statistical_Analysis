@@ -30,4 +30,8 @@ Software: RStudio
 
 ## Summary Statistics on Suspension Coils
 
+<img width="341" alt="Deliverable 2" src="https://user-images.githubusercontent.com/103767830/195753666-9700fc36-739b-4d57-86ec-d41d83b3d0c8.png">
+
+<img width="495" alt="Deliverable 2 1" src="https://user-images.githubusercontent.com/103767830/195753668-e4cfdbf1-7134-464c-85eb-adf6130de28f.png">
+
 ## T-Tests on Suspension Coils
